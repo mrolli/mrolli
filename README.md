@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#32](https://github.com/treydock/puppet-module-singularity/pull/32) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
+2. 🗣 Commented on [#31](https://github.com/treydock/puppet-module-singularity/issues/31) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
+3. ❌ Closed PR [#31](https://github.com/treydock/puppet-module-singularity/pull/31) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
+4. 💪 Opened PR [#31](https://github.com/treydock/puppet-module-singularity/pull/31) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
+5. 💪 Opened PR [#17](https://github.com/treydock/puppet-munge/pull/17) in [treydock/puppet-munge](https://github.com/treydock/puppet-munge)
+<!--END_SECTION:activity-->
 
 ### Github Stats
 [![mrolli's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrolli&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  
