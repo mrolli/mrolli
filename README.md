@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I'm a Husband, Father, Doctor, Linux Sysadmin, Vim Enthusiaast, Puppet Developer, fresh Learner of Greek, Modular Synth Geek, PS Gamer and many more things if the time allows it!
+### I'm a Husband, Father, Doctor, Linux Sysadmin, Vim Enthusiast, Puppet Developer, fresh Learner of Greek, Modular Synth Geek, PS Gamer and many more things if the time allows it!
 
 ### :zap: Recent Activity
 
