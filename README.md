@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#32](https://github.com/treydock/puppet-module-singularity/pull/32) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
-2. 🗣 Commented on [#31](https://github.com/treydock/puppet-module-singularity/issues/31) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
-3. ❌ Closed PR [#31](https://github.com/treydock/puppet-module-singularity/pull/31) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
-4. 💪 Opened PR [#31](https://github.com/treydock/puppet-module-singularity/pull/31) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
-5. 💪 Opened PR [#17](https://github.com/treydock/puppet-munge/pull/17) in [treydock/puppet-munge](https://github.com/treydock/puppet-munge)
+1. ❗️ Opened issue [#20](https://github.com/rosariolm/myjournal/issues/20) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
+2. 💪 Opened PR [#32](https://github.com/treydock/puppet-module-singularity/pull/32) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
+3. 🗣 Commented on [#31](https://github.com/treydock/puppet-module-singularity/issues/31) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
+4. ❌ Closed PR [#31](https://github.com/treydock/puppet-module-singularity/pull/31) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
+5. 💪 Opened PR [#31](https://github.com/treydock/puppet-module-singularity/pull/31) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
 <!--END_SECTION:activity-->
 
 ### Github Stats
