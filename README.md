@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/rosariolm/myjournal/pull/21) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
-2. ❗️ Opened issue [#20](https://github.com/rosariolm/myjournal/issues/20) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
-3. 💪 Opened PR [#32](https://github.com/treydock/puppet-module-singularity/pull/32) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
-4. 🗣 Commented on [#31](https://github.com/treydock/puppet-module-singularity/issues/31) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
-5. ❌ Closed PR [#31](https://github.com/treydock/puppet-module-singularity/pull/31) in [treydock/puppet-module-singularity](https://github.com/treydock/puppet-module-singularity)
+1. 🎉 Merged PR [#25](https://github.com/hpc-unibe-ch/pocket-ubelix2/pull/25) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
+2. ❗️ Closed issue [#23](https://github.com/hpc-unibe-ch/pocket-ubelix2/issues/23) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
+3. 💪 Opened PR [#25](https://github.com/hpc-unibe-ch/pocket-ubelix2/pull/25) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
+4. ❗️ Opened issue [#24](https://github.com/hpc-unibe-ch/pocket-ubelix2/issues/24) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
+5. ❗️ Opened issue [#23](https://github.com/hpc-unibe-ch/pocket-ubelix2/issues/23) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
 <!--END_SECTION:activity-->
 
 ### Github Stats
