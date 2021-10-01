@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/hpc-unibe-ch/pocket-ubelix2/pull/25) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
-2. ❗️ Closed issue [#23](https://github.com/hpc-unibe-ch/pocket-ubelix2/issues/23) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
-3. 💪 Opened PR [#25](https://github.com/hpc-unibe-ch/pocket-ubelix2/pull/25) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
-4. ❗️ Opened issue [#24](https://github.com/hpc-unibe-ch/pocket-ubelix2/issues/24) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
-5. ❗️ Opened issue [#23](https://github.com/hpc-unibe-ch/pocket-ubelix2/issues/23) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
+1. ❗️ Closed issue [#24](https://github.com/hpc-unibe-ch/pocket-ubelix2/issues/24) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
+2. 🎉 Merged PR [#26](https://github.com/hpc-unibe-ch/pocket-ubelix2/pull/26) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
+3. 💪 Opened PR [#26](https://github.com/hpc-unibe-ch/pocket-ubelix2/pull/26) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
+4. 🎉 Merged PR [#25](https://github.com/hpc-unibe-ch/pocket-ubelix2/pull/25) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
+5. ❗️ Closed issue [#23](https://github.com/hpc-unibe-ch/pocket-ubelix2/issues/23) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
 <!--END_SECTION:activity-->
 
 ### Github Stats
