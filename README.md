@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#315](https://github.com/puppetlabs/puppet-editor-services/pull/315) in [puppetlabs/puppet-editor-services](https://github.com/puppetlabs/puppet-editor-services)
-2. ❗️ Opened issue [#5](https://github.com/mrolli/myitjournal/issues/5) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
-3. ❗️ Closed issue [#24](https://github.com/hpc-unibe-ch/pocket-ubelix2/issues/24) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
-4. 🎉 Merged PR [#26](https://github.com/hpc-unibe-ch/pocket-ubelix2/pull/26) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
-5. 💪 Opened PR [#26](https://github.com/hpc-unibe-ch/pocket-ubelix2/pull/26) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
+1. 💪 Opened PR [#103](https://github.com/JamshedVesuna/vim-markdown-preview/pull/103) in [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview)
+2. ❌ Closed PR [#1](https://github.com/hpc-unibe-ch/vim-markdown-preview/pull/1) in [hpc-unibe-ch/vim-markdown-preview](https://github.com/hpc-unibe-ch/vim-markdown-preview)
+3. 💪 Opened PR [#1](https://github.com/hpc-unibe-ch/vim-markdown-preview/pull/1) in [hpc-unibe-ch/vim-markdown-preview](https://github.com/hpc-unibe-ch/vim-markdown-preview)
+4. 💪 Opened PR [#315](https://github.com/puppetlabs/puppet-editor-services/pull/315) in [puppetlabs/puppet-editor-services](https://github.com/puppetlabs/puppet-editor-services)
+5. ❗️ Opened issue [#5](https://github.com/mrolli/myitjournal/issues/5) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
 <!--END_SECTION:activity-->
 
 ### Github Stats
