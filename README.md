@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#104](https://github.com/JamshedVesuna/vim-markdown-preview/issues/104) in [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview)
-2. 💪 Opened PR [#103](https://github.com/JamshedVesuna/vim-markdown-preview/pull/103) in [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview)
-3. ❌ Closed PR [#1](https://github.com/hpc-unibe-ch/vim-markdown-preview/pull/1) in [hpc-unibe-ch/vim-markdown-preview](https://github.com/hpc-unibe-ch/vim-markdown-preview)
-4. 💪 Opened PR [#1](https://github.com/hpc-unibe-ch/vim-markdown-preview/pull/1) in [hpc-unibe-ch/vim-markdown-preview](https://github.com/hpc-unibe-ch/vim-markdown-preview)
-5. 💪 Opened PR [#315](https://github.com/puppetlabs/puppet-editor-services/pull/315) in [puppetlabs/puppet-editor-services](https://github.com/puppetlabs/puppet-editor-services)
+1. ❗️ Opened issue [#4](https://github.com/mrolli/dotfiles/issues/4) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+2. ❗️ Opened issue [#104](https://github.com/JamshedVesuna/vim-markdown-preview/issues/104) in [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview)
+3. 💪 Opened PR [#103](https://github.com/JamshedVesuna/vim-markdown-preview/pull/103) in [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview)
+4. ❌ Closed PR [#1](https://github.com/hpc-unibe-ch/vim-markdown-preview/pull/1) in [hpc-unibe-ch/vim-markdown-preview](https://github.com/hpc-unibe-ch/vim-markdown-preview)
+5. 💪 Opened PR [#1](https://github.com/hpc-unibe-ch/vim-markdown-preview/pull/1) in [hpc-unibe-ch/vim-markdown-preview](https://github.com/hpc-unibe-ch/vim-markdown-preview)
 <!--END_SECTION:activity-->
 
 ### Github Stats
