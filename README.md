@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/mrolli/u5cms/pull/1) in [mrolli/u5cms](https://github.com/mrolli/u5cms)
-2. ❗️ Opened issue [#5](https://github.com/mrolli/dotfiles/issues/5) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-3. ❗️ Opened issue [#4](https://github.com/mrolli/dotfiles/issues/4) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. ❗️ Opened issue [#104](https://github.com/JamshedVesuna/vim-markdown-preview/issues/104) in [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview)
-5. 💪 Opened PR [#103](https://github.com/JamshedVesuna/vim-markdown-preview/pull/103) in [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview)
+1. ❗️ Opened issue [#3](https://github.com/mrolli/u5cms/issues/3) in [mrolli/u5cms](https://github.com/mrolli/u5cms)
+2. ❗️ Opened issue [#2](https://github.com/mrolli/u5cms/issues/2) in [mrolli/u5cms](https://github.com/mrolli/u5cms)
+3. 💪 Opened PR [#1](https://github.com/mrolli/u5cms/pull/1) in [mrolli/u5cms](https://github.com/mrolli/u5cms)
+4. ❗️ Opened issue [#5](https://github.com/mrolli/dotfiles/issues/5) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. ❗️ Opened issue [#4](https://github.com/mrolli/dotfiles/issues/4) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
