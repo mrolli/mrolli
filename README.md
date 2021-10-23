@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/u5cms/u5cms/issues/5) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-2. ❗️ Closed issue [#5](https://github.com/u5cms/u5cms/issues/5) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. ❗️ Closed issue [#4](https://github.com/u5cms/u5cms/issues/4) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 🎉 Merged PR [#6](https://github.com/mrolli/u5cms/pull/6) in [mrolli/u5cms](https://github.com/mrolli/u5cms)
-5. ❗️ Closed issue [#3](https://github.com/mrolli/u5cms/issues/3) in [mrolli/u5cms](https://github.com/mrolli/u5cms)
+1. ❗️ Opened issue [#6](https://github.com/mrolli/dotfiles/issues/6) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+2. 🗣 Commented on [#5](https://github.com/u5cms/u5cms/issues/5) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. ❗️ Closed issue [#5](https://github.com/u5cms/u5cms/issues/5) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. ❗️ Closed issue [#4](https://github.com/u5cms/u5cms/issues/4) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. 🎉 Merged PR [#6](https://github.com/mrolli/u5cms/pull/6) in [mrolli/u5cms](https://github.com/mrolli/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
