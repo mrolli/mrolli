@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7](https://github.com/mrolli/dotfiles/issues/7) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-2. 💪 Opened PR [#26](https://github.com/rosariolm/myjournal/pull/26) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
-3. 💪 Opened PR [#316](https://github.com/puppetlabs/puppet-editor-services/pull/316) in [puppetlabs/puppet-editor-services](https://github.com/puppetlabs/puppet-editor-services)
-4. 🗣 Commented on [#202](https://github.com/junegunn/goyo.vim/issues/202) in [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim)
-5. ❗️ Opened issue [#6](https://github.com/mrolli/dotfiles/issues/6) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+1. ❗️ Opened issue [#8](https://github.com/mrolli/dotfiles/issues/8) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+2. ❗️ Opened issue [#7](https://github.com/mrolli/dotfiles/issues/7) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+3. 💪 Opened PR [#26](https://github.com/rosariolm/myjournal/pull/26) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
+4. 💪 Opened PR [#316](https://github.com/puppetlabs/puppet-editor-services/pull/316) in [puppetlabs/puppet-editor-services](https://github.com/puppetlabs/puppet-editor-services)
+5. 🗣 Commented on [#202](https://github.com/junegunn/goyo.vim/issues/202) in [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim)
 <!--END_SECTION:activity-->
 
 ### Github Stats
