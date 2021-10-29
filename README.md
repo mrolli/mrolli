@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/mrolli/dotfiles/pull/10) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-2. ❗️ Closed issue [#8](https://github.com/mrolli/dotfiles/issues/8) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-3. 💪 Opened PR [#10](https://github.com/mrolli/dotfiles/pull/10) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. ❗️ Opened issue [#9](https://github.com/mrolli/dotfiles/issues/9) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-5. ❗️ Opened issue [#8](https://github.com/mrolli/dotfiles/issues/8) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+1. 🎉 Merged PR [#11](https://github.com/mrolli/dotfiles/pull/11) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+2. ❗️ Closed issue [#9](https://github.com/mrolli/dotfiles/issues/9) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+3. 💪 Opened PR [#11](https://github.com/mrolli/dotfiles/pull/11) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+4. 🎉 Merged PR [#10](https://github.com/mrolli/dotfiles/pull/10) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. ❗️ Closed issue [#8](https://github.com/mrolli/dotfiles/issues/8) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
