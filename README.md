@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#105](https://github.com/JamshedVesuna/vim-markdown-preview/pull/105) in [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview)
-2. ❌ Closed PR [#103](https://github.com/JamshedVesuna/vim-markdown-preview/pull/103) in [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview)
-3. 🎉 Merged PR [#11](https://github.com/mrolli/dotfiles/pull/11) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. ❗️ Closed issue [#9](https://github.com/mrolli/dotfiles/issues/9) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-5. 💪 Opened PR [#11](https://github.com/mrolli/dotfiles/pull/11) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+1. 🗣 Commented on [#7](https://github.com/u5cms/u5cms/issues/7) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+2. 💪 Opened PR [#105](https://github.com/JamshedVesuna/vim-markdown-preview/pull/105) in [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview)
+3. ❌ Closed PR [#103](https://github.com/JamshedVesuna/vim-markdown-preview/pull/103) in [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview)
+4. 🎉 Merged PR [#11](https://github.com/mrolli/dotfiles/pull/11) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. ❗️ Closed issue [#9](https://github.com/mrolli/dotfiles/issues/9) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
