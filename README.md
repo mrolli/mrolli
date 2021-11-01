@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/u5cms/u5cms/pull/8) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-2. ❗️ Closed issue [#7](https://github.com/u5cms/u5cms/issues/7) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. 💪 Opened PR [#8](https://github.com/u5cms/u5cms/pull/8) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 🗣 Commented on [#7](https://github.com/u5cms/u5cms/issues/7) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. 💪 Opened PR [#105](https://github.com/JamshedVesuna/vim-markdown-preview/pull/105) in [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview)
+1. 🗣 Commented on [#317](https://github.com/puppetlabs/puppet-editor-services/issues/317) in [puppetlabs/puppet-editor-services](https://github.com/puppetlabs/puppet-editor-services)
+2. 🎉 Merged PR [#8](https://github.com/u5cms/u5cms/pull/8) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. ❗️ Closed issue [#7](https://github.com/u5cms/u5cms/issues/7) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. 💪 Opened PR [#8](https://github.com/u5cms/u5cms/pull/8) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. 🗣 Commented on [#7](https://github.com/u5cms/u5cms/issues/7) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
