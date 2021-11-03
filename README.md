@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#317](https://github.com/puppetlabs/puppet-editor-services/issues/317) in [puppetlabs/puppet-editor-services](https://github.com/puppetlabs/puppet-editor-services)
-2. 🎉 Merged PR [#8](https://github.com/u5cms/u5cms/pull/8) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. ❗️ Closed issue [#7](https://github.com/u5cms/u5cms/issues/7) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 💪 Opened PR [#8](https://github.com/u5cms/u5cms/pull/8) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. 🗣 Commented on [#7](https://github.com/u5cms/u5cms/issues/7) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. 🗣 Commented on [#216](https://github.com/mas-cli/mas/issues/216) in [mas-cli/mas](https://github.com/mas-cli/mas)
+2. 🗣 Commented on [#317](https://github.com/puppetlabs/puppet-editor-services/issues/317) in [puppetlabs/puppet-editor-services](https://github.com/puppetlabs/puppet-editor-services)
+3. 🎉 Merged PR [#8](https://github.com/u5cms/u5cms/pull/8) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. ❗️ Closed issue [#7](https://github.com/u5cms/u5cms/issues/7) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. 💪 Opened PR [#8](https://github.com/u5cms/u5cms/pull/8) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
