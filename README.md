@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/mrolli/dotfiles/pull/12) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-2. ❗️ Closed issue [#6](https://github.com/mrolli/dotfiles/issues/6) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-3. 💪 Opened PR [#12](https://github.com/mrolli/dotfiles/pull/12) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. 🗣 Commented on [#216](https://github.com/mas-cli/mas/issues/216) in [mas-cli/mas](https://github.com/mas-cli/mas)
-5. 🗣 Commented on [#317](https://github.com/puppetlabs/puppet-editor-services/issues/317) in [puppetlabs/puppet-editor-services](https://github.com/puppetlabs/puppet-editor-services)
+1. ❗️ Opened issue [#1](https://github.com/constantin-koenig/ITjournal/issues/1) in [constantin-koenig/ITjournal](https://github.com/constantin-koenig/ITjournal)
+2. 🎉 Merged PR [#12](https://github.com/mrolli/dotfiles/pull/12) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+3. ❗️ Closed issue [#6](https://github.com/mrolli/dotfiles/issues/6) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+4. 💪 Opened PR [#12](https://github.com/mrolli/dotfiles/pull/12) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. 🗣 Commented on [#216](https://github.com/mas-cli/mas/issues/216) in [mas-cli/mas](https://github.com/mas-cli/mas)
 <!--END_SECTION:activity-->
 
 ### Github Stats
