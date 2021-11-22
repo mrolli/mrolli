@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/constantin-koenig/ITjournal/issues/1) in [constantin-koenig/ITjournal](https://github.com/constantin-koenig/ITjournal)
-2. 🎉 Merged PR [#12](https://github.com/mrolli/dotfiles/pull/12) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-3. ❗️ Closed issue [#6](https://github.com/mrolli/dotfiles/issues/6) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. 💪 Opened PR [#12](https://github.com/mrolli/dotfiles/pull/12) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-5. 🗣 Commented on [#216](https://github.com/mas-cli/mas/issues/216) in [mas-cli/mas](https://github.com/mas-cli/mas)
+1. 💪 Opened PR [#2](https://github.com/constantin-koenig/ITjournal/pull/2) in [constantin-koenig/ITjournal](https://github.com/constantin-koenig/ITjournal)
+2. ❌ Closed PR [#1](https://github.com/mrolli/consti_ITjournal/pull/1) in [mrolli/consti_ITjournal](https://github.com/mrolli/consti_ITjournal)
+3. 💪 Opened PR [#1](https://github.com/mrolli/consti_ITjournal/pull/1) in [mrolli/consti_ITjournal](https://github.com/mrolli/consti_ITjournal)
+4. ❗️ Opened issue [#1](https://github.com/constantin-koenig/ITjournal/issues/1) in [constantin-koenig/ITjournal](https://github.com/constantin-koenig/ITjournal)
+5. 🎉 Merged PR [#12](https://github.com/mrolli/dotfiles/pull/12) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
