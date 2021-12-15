@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/constantin-koenig/ITjournal/pull/4) in [constantin-koenig/ITjournal](https://github.com/constantin-koenig/ITjournal)
-2. 🎉 Merged PR [#14](https://github.com/u5cms/u5cms/pull/14) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. ❗️ Closed issue [#11](https://github.com/u5cms/u5cms/issues/11) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 🗣 Commented on [#14](https://github.com/u5cms/u5cms/issues/14) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. 💪 Opened PR [#14](https://github.com/u5cms/u5cms/pull/14) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. ❗️ Opened issue [#27](https://github.com/rosariolm/myjournal/issues/27) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
+2. 💪 Opened PR [#4](https://github.com/constantin-koenig/ITjournal/pull/4) in [constantin-koenig/ITjournal](https://github.com/constantin-koenig/ITjournal)
+3. 🎉 Merged PR [#14](https://github.com/u5cms/u5cms/pull/14) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. ❗️ Closed issue [#11](https://github.com/u5cms/u5cms/issues/11) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. 🗣 Commented on [#14](https://github.com/u5cms/u5cms/issues/14) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
