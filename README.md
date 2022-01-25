@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/constantin-koenig/webapp/pull/1) in [constantin-koenig/webapp](https://github.com/constantin-koenig/webapp)
-2. 🗣 Commented on [#35](https://github.com/u5cms/u5cms/issues/35) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. 🎉 Merged PR [#39](https://github.com/u5cms/u5cms/pull/39) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. ❗️ Closed issue [#37](https://github.com/u5cms/u5cms/issues/37) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. 💪 Opened PR [#39](https://github.com/u5cms/u5cms/pull/39) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. ❗️ Opened issue [#29](https://github.com/hpc-unibe-ch/hpc-docs/issues/29) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
+2. ❗️ Opened issue [#28](https://github.com/hpc-unibe-ch/hpc-docs/issues/28) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
+3. 💪 Opened PR [#1](https://github.com/constantin-koenig/webapp/pull/1) in [constantin-koenig/webapp](https://github.com/constantin-koenig/webapp)
+4. 🗣 Commented on [#35](https://github.com/u5cms/u5cms/issues/35) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. 🎉 Merged PR [#39](https://github.com/u5cms/u5cms/pull/39) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
