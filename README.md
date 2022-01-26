@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#189](https://github.com/ansible/ansible-language-server/pull/189) in [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server)
-2. ❗️ Opened issue [#29](https://github.com/hpc-unibe-ch/hpc-docs/issues/29) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
-3. ❗️ Opened issue [#28](https://github.com/hpc-unibe-ch/hpc-docs/issues/28) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
-4. 💪 Opened PR [#1](https://github.com/constantin-koenig/webapp/pull/1) in [constantin-koenig/webapp](https://github.com/constantin-koenig/webapp)
-5. 🗣 Commented on [#35](https://github.com/u5cms/u5cms/issues/35) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. 🗣 Commented on [#189](https://github.com/ansible/ansible-language-server/issues/189) in [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server)
+2. 💪 Opened PR [#189](https://github.com/ansible/ansible-language-server/pull/189) in [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server)
+3. ❗️ Opened issue [#29](https://github.com/hpc-unibe-ch/hpc-docs/issues/29) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
+4. ❗️ Opened issue [#28](https://github.com/hpc-unibe-ch/hpc-docs/issues/28) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
+5. 💪 Opened PR [#1](https://github.com/constantin-koenig/webapp/pull/1) in [constantin-koenig/webapp](https://github.com/constantin-koenig/webapp)
 <!--END_SECTION:activity-->
 
 ### Github Stats
