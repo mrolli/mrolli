@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#114](https://github.com/dun/munge/issues/114) in [dun/munge](https://github.com/dun/munge)
-2. 🗣 Commented on [#189](https://github.com/ansible/ansible-language-server/issues/189) in [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server)
+1. 🗣 Commented on [#114](https://github.com/dun/munge/issues/114) in [dun/munge](https://github.com/dun/munge)
+2. ❗️ Opened issue [#114](https://github.com/dun/munge/issues/114) in [dun/munge](https://github.com/dun/munge)
 3. 🗣 Commented on [#189](https://github.com/ansible/ansible-language-server/issues/189) in [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server)
-4. 💪 Opened PR [#189](https://github.com/ansible/ansible-language-server/pull/189) in [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server)
-5. ❗️ Opened issue [#29](https://github.com/hpc-unibe-ch/hpc-docs/issues/29) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
+4. 🗣 Commented on [#189](https://github.com/ansible/ansible-language-server/issues/189) in [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server)
+5. 💪 Opened PR [#189](https://github.com/ansible/ansible-language-server/pull/189) in [ansible/ansible-language-server](https://github.com/ansible/ansible-language-server)
 <!--END_SECTION:activity-->
 
 ### Github Stats
