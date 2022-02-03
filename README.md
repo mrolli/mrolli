@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#24](https://github.com/hpc-unibe-ch/hpc-docs/issues/24) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
-2. 🗣 Commented on [#24](https://github.com/hpc-unibe-ch/hpc-docs/issues/24) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
-3. ❌ Closed PR [#25](https://github.com/hpc-unibe-ch/hpc-docs/pull/25) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
-4. 🗣 Commented on [#25](https://github.com/hpc-unibe-ch/hpc-docs/issues/25) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
-5. 🗣 Commented on [#26](https://github.com/hpc-unibe-ch/hpc-docs/issues/26) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
+1. ❗️ Opened issue [#33](https://github.com/hpc-unibe-ch/hpc-docs/issues/33) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
+2. ❗️ Closed issue [#24](https://github.com/hpc-unibe-ch/hpc-docs/issues/24) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
+3. 🗣 Commented on [#24](https://github.com/hpc-unibe-ch/hpc-docs/issues/24) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
+4. ❌ Closed PR [#25](https://github.com/hpc-unibe-ch/hpc-docs/pull/25) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
+5. 🗣 Commented on [#25](https://github.com/hpc-unibe-ch/hpc-docs/issues/25) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
 <!--END_SECTION:activity-->
 
 ### Github Stats
