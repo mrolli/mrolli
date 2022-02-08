@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#42](https://github.com/u5cms/u5cms/issues/42) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-2. ❗️ Opened issue [#33](https://github.com/hpc-unibe-ch/hpc-docs/issues/33) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
-3. ❗️ Closed issue [#24](https://github.com/hpc-unibe-ch/hpc-docs/issues/24) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
-4. 🗣 Commented on [#24](https://github.com/hpc-unibe-ch/hpc-docs/issues/24) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
-5. ❌ Closed PR [#25](https://github.com/hpc-unibe-ch/hpc-docs/pull/25) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
+1. ❗️ Opened issue [#34](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/34) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+2. ❗️ Closed issue [#33](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/33) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+3. 🗣 Commented on [#33](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/33) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+4. ❗️ Opened issue [#42](https://github.com/u5cms/u5cms/issues/42) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. ❗️ Opened issue [#33](https://github.com/hpc-unibe-ch/hpc-docs/issues/33) in [hpc-unibe-ch/hpc-docs](https://github.com/hpc-unibe-ch/hpc-docs)
 <!--END_SECTION:activity-->
 
 ### Github Stats
