@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#37](https://github.com/rosariolm/myjournal/pull/37) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
-2. 🗣 Commented on [#45](https://github.com/u5cms/u5cms/issues/45) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. ❗️ Opened issue [#45](https://github.com/u5cms/u5cms/issues/45) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 💪 Opened PR [#44](https://github.com/u5cms/u5cms/pull/44) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. 🗣 Commented on [#41](https://github.com/u5cms/u5cms/issues/41) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. ❗️ Opened issue [#35](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/35) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+2. 💪 Opened PR [#37](https://github.com/rosariolm/myjournal/pull/37) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
+3. 🗣 Commented on [#45](https://github.com/u5cms/u5cms/issues/45) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. ❗️ Opened issue [#45](https://github.com/u5cms/u5cms/issues/45) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. 💪 Opened PR [#44](https://github.com/u5cms/u5cms/pull/44) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
