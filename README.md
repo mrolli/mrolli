@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/hpc-unibe-ch/puppet-module-snowagent/pull/2) in [hpc-unibe-ch/puppet-module-snowagent](https://github.com/hpc-unibe-ch/puppet-module-snowagent)
-2. ❗️ Closed issue [#1](https://github.com/hpc-unibe-ch/puppet-module-snowagent/issues/1) in [hpc-unibe-ch/puppet-module-snowagent](https://github.com/hpc-unibe-ch/puppet-module-snowagent)
-3. 💪 Opened PR [#2](https://github.com/hpc-unibe-ch/puppet-module-snowagent/pull/2) in [hpc-unibe-ch/puppet-module-snowagent](https://github.com/hpc-unibe-ch/puppet-module-snowagent)
-4. ❗️ Opened issue [#1](https://github.com/hpc-unibe-ch/puppet-module-snowagent/issues/1) in [hpc-unibe-ch/puppet-module-snowagent](https://github.com/hpc-unibe-ch/puppet-module-snowagent)
-5. 🎉 Merged PR [#38](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/38) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+1. 🎉 Merged PR [#6](https://github.com/hpc-unibe-ch/.github/pull/6) in [hpc-unibe-ch/.github](https://github.com/hpc-unibe-ch/.github)
+2. ❗️ Closed issue [#5](https://github.com/hpc-unibe-ch/.github/issues/5) in [hpc-unibe-ch/.github](https://github.com/hpc-unibe-ch/.github)
+3. 💪 Opened PR [#6](https://github.com/hpc-unibe-ch/.github/pull/6) in [hpc-unibe-ch/.github](https://github.com/hpc-unibe-ch/.github)
+4. ❗️ Opened issue [#5](https://github.com/hpc-unibe-ch/.github/issues/5) in [hpc-unibe-ch/.github](https://github.com/hpc-unibe-ch/.github)
+5. 🎉 Merged PR [#2](https://github.com/hpc-unibe-ch/puppet-module-snowagent/pull/2) in [hpc-unibe-ch/puppet-module-snowagent](https://github.com/hpc-unibe-ch/puppet-module-snowagent)
 <!--END_SECTION:activity-->
 
 ### Github Stats
