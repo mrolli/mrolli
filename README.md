@@ -26,11 +26,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#43](https://github.com/rosariolm/myjournal/pull/43) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
-2. 🎉 Merged PR [#6](https://github.com/hpc-unibe-ch/.github/pull/6) in [hpc-unibe-ch/.github](https://github.com/hpc-unibe-ch/.github)
-3. ❗️ Closed issue [#5](https://github.com/hpc-unibe-ch/.github/issues/5) in [hpc-unibe-ch/.github](https://github.com/hpc-unibe-ch/.github)
-4. 💪 Opened PR [#6](https://github.com/hpc-unibe-ch/.github/pull/6) in [hpc-unibe-ch/.github](https://github.com/hpc-unibe-ch/.github)
-5. ❗️ Opened issue [#5](https://github.com/hpc-unibe-ch/.github/issues/5) in [hpc-unibe-ch/.github](https://github.com/hpc-unibe-ch/.github)
+1. ❗️ Closed issue [#1](https://github.com/hpc-unibe-ch/rpmbuild_environment/issues/1) in [hpc-unibe-ch/rpmbuild_environment](https://github.com/hpc-unibe-ch/rpmbuild_environment)
+2. 🎉 Merged PR [#2](https://github.com/hpc-unibe-ch/rpmbuild_environment/pull/2) in [hpc-unibe-ch/rpmbuild_environment](https://github.com/hpc-unibe-ch/rpmbuild_environment)
+3. 💪 Opened PR [#2](https://github.com/hpc-unibe-ch/rpmbuild_environment/pull/2) in [hpc-unibe-ch/rpmbuild_environment](https://github.com/hpc-unibe-ch/rpmbuild_environment)
+4. ❗️ Opened issue [#1](https://github.com/hpc-unibe-ch/rpmbuild_environment/issues/1) in [hpc-unibe-ch/rpmbuild_environment](https://github.com/hpc-unibe-ch/rpmbuild_environment)
+5. 💪 Opened PR [#43](https://github.com/rosariolm/myjournal/pull/43) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
 <!--END_SECTION:activity-->
 
 ### Github Stats
