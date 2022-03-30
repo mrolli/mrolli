@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ### I am a
-- Husband, Father
-- Medical Doctor, Linux System Engineer, DBA, Puppet-eer
-- DevOps and Vim Enthusiast
-- macOS user
+- Husband and father
+- Medical doctor, Linux System Engineer, PHP programmer, DBA and Puppet-eer
+- DevOps, Git/Github, Vim and macOS enthusiast
 - fresh learner of Ansible and Greek
-- Karateka, Modular Synth Geek, LEGO brick stacker and Playstation Gamer 
+- Karateka, Modular Synth Geek, LEGO bricks stacker and Playstation gamer 
 
 ### :zap: Recent Activity
 
