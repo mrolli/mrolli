@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3164](https://github.com/hakimel/reveal.js/issues/3164) in [hakimel/reveal.js](https://github.com/hakimel/reveal.js)
-2. ❗️ Closed issue [#1](https://github.com/hpc-unibe-ch/rpmbuild_environment/issues/1) in [hpc-unibe-ch/rpmbuild_environment](https://github.com/hpc-unibe-ch/rpmbuild_environment)
-3. 🎉 Merged PR [#2](https://github.com/hpc-unibe-ch/rpmbuild_environment/pull/2) in [hpc-unibe-ch/rpmbuild_environment](https://github.com/hpc-unibe-ch/rpmbuild_environment)
-4. 💪 Opened PR [#2](https://github.com/hpc-unibe-ch/rpmbuild_environment/pull/2) in [hpc-unibe-ch/rpmbuild_environment](https://github.com/hpc-unibe-ch/rpmbuild_environment)
-5. ❗️ Opened issue [#1](https://github.com/hpc-unibe-ch/rpmbuild_environment/issues/1) in [hpc-unibe-ch/rpmbuild_environment](https://github.com/hpc-unibe-ch/rpmbuild_environment)
+1. 🎉 Merged PR [#44](https://github.com/u5cms/u5cms/pull/44) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+2. ❗️ Closed issue [#42](https://github.com/u5cms/u5cms/issues/42) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. 🗣 Commented on [#41](https://github.com/u5cms/u5cms/issues/41) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. 🗣 Commented on [#3164](https://github.com/hakimel/reveal.js/issues/3164) in [hakimel/reveal.js](https://github.com/hakimel/reveal.js)
+5. ❗️ Closed issue [#1](https://github.com/hpc-unibe-ch/rpmbuild_environment/issues/1) in [hpc-unibe-ch/rpmbuild_environment](https://github.com/hpc-unibe-ch/rpmbuild_environment)
 <!--END_SECTION:activity-->
 
 ### Github Stats
