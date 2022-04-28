@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/mrolli/dotfiles/issues/13) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-2. 💪 Opened PR [#3](https://github.com/idci-unibe-ch/sites-mail2cloud/pull/3) in [idci-unibe-ch/sites-mail2cloud](https://github.com/idci-unibe-ch/sites-mail2cloud)
-3. ❗️ Opened issue [#47](https://github.com/u5cms/u5cms/issues/47) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. ❗️ Opened issue [#46](https://github.com/u5cms/u5cms/issues/46) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. 🎉 Merged PR [#44](https://github.com/u5cms/u5cms/pull/44) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. ❗️ Opened issue [#17](https://github.com/mrolli/dotfiles/issues/17) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+2. ❗️ Opened issue [#16](https://github.com/mrolli/dotfiles/issues/16) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+3. ❗️ Opened issue [#15](https://github.com/mrolli/dotfiles/issues/15) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+4. ❗️ Opened issue [#14](https://github.com/mrolli/dotfiles/issues/14) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. ❗️ Opened issue [#13](https://github.com/mrolli/dotfiles/issues/13) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
