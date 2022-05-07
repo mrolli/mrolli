@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/mrolli/myitjournal/issues/8) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
-2. ❗️ Opened issue [#7](https://github.com/mrolli/myitjournal/issues/7) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
-3. ❗️ Opened issue [#6](https://github.com/mrolli/myitjournal/issues/6) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
-4. ❗️ Opened issue [#27](https://github.com/mrolli/dotfiles/issues/27) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-5. ❗️ Opened issue [#26](https://github.com/mrolli/dotfiles/issues/26) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+1. 🎉 Merged PR [#28](https://github.com/mrolli/dotfiles/pull/28) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+2. 💪 Opened PR [#28](https://github.com/mrolli/dotfiles/pull/28) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+3. ❗️ Opened issue [#8](https://github.com/mrolli/myitjournal/issues/8) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
+4. ❗️ Opened issue [#7](https://github.com/mrolli/myitjournal/issues/7) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
+5. ❗️ Opened issue [#6](https://github.com/mrolli/myitjournal/issues/6) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
 <!--END_SECTION:activity-->
 
 ### Github Stats
