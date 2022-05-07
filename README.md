@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#5](https://github.com/mrolli/lvim/issues/5) in [mrolli/lvim](https://github.com/mrolli/lvim)
-2. ❗️ Opened issue [#4](https://github.com/mrolli/lvim/issues/4) in [mrolli/lvim](https://github.com/mrolli/lvim)
-3. ❗️ Opened issue [#3](https://github.com/mrolli/lvim/issues/3) in [mrolli/lvim](https://github.com/mrolli/lvim)
-4. ❗️ Opened issue [#2](https://github.com/mrolli/lvim/issues/2) in [mrolli/lvim](https://github.com/mrolli/lvim)
-5. ❗️ Opened issue [#1](https://github.com/mrolli/lvim/issues/1) in [mrolli/lvim](https://github.com/mrolli/lvim)
+1. ❗️ Opened issue [#8](https://github.com/mrolli/myitjournal/issues/8) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
+2. ❗️ Opened issue [#7](https://github.com/mrolli/myitjournal/issues/7) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
+3. ❗️ Opened issue [#6](https://github.com/mrolli/myitjournal/issues/6) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
+4. ❗️ Opened issue [#27](https://github.com/mrolli/dotfiles/issues/27) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. ❗️ Opened issue [#26](https://github.com/mrolli/dotfiles/issues/26) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
