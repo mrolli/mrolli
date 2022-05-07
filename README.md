@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/mrolli/dotfiles/pull/24) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-2. ❗️ Closed issue [#18](https://github.com/mrolli/dotfiles/issues/18) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-3. 💪 Opened PR [#24](https://github.com/mrolli/dotfiles/pull/24) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. ❗️ Closed issue [#16](https://github.com/mrolli/dotfiles/issues/16) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-5. 🎉 Merged PR [#23](https://github.com/mrolli/dotfiles/pull/23) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+1. ❗️ Opened issue [#5](https://github.com/mrolli/lvim/issues/5) in [mrolli/lvim](https://github.com/mrolli/lvim)
+2. ❗️ Opened issue [#4](https://github.com/mrolli/lvim/issues/4) in [mrolli/lvim](https://github.com/mrolli/lvim)
+3. ❗️ Opened issue [#3](https://github.com/mrolli/lvim/issues/3) in [mrolli/lvim](https://github.com/mrolli/lvim)
+4. ❗️ Opened issue [#2](https://github.com/mrolli/lvim/issues/2) in [mrolli/lvim](https://github.com/mrolli/lvim)
+5. ❗️ Opened issue [#1](https://github.com/mrolli/lvim/issues/1) in [mrolli/lvim](https://github.com/mrolli/lvim)
 <!--END_SECTION:activity-->
 
 ### Github Stats
