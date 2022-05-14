@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#51](https://github.com/rosariolm/myjournal/issues/51) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
+1. ❗️ Opened issue [#6](https://github.com/mrolli/lvim/issues/6) in [mrolli/lvim](https://github.com/mrolli/lvim)
 2. 🗣 Commented on [#51](https://github.com/rosariolm/myjournal/issues/51) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
-3. 🎉 Merged PR [#28](https://github.com/mrolli/dotfiles/pull/28) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. 💪 Opened PR [#28](https://github.com/mrolli/dotfiles/pull/28) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-5. ❗️ Opened issue [#8](https://github.com/mrolli/myitjournal/issues/8) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
+3. 🗣 Commented on [#51](https://github.com/rosariolm/myjournal/issues/51) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
+4. 🎉 Merged PR [#28](https://github.com/mrolli/dotfiles/pull/28) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. 💪 Opened PR [#28](https://github.com/mrolli/dotfiles/pull/28) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
