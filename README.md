@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6065](https://github.com/alacritty/alacritty/issues/6065) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-2. ❗️ Opened issue [#6065](https://github.com/alacritty/alacritty/issues/6065) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-3. ❗️ Opened issue [#6](https://github.com/mrolli/lvim/issues/6) in [mrolli/lvim](https://github.com/mrolli/lvim)
-4. 🗣 Commented on [#51](https://github.com/rosariolm/myjournal/issues/51) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
+1. ❗️ Opened issue [#29](https://github.com/mrolli/dotfiles/issues/29) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+2. 🗣 Commented on [#6065](https://github.com/alacritty/alacritty/issues/6065) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+3. ❗️ Opened issue [#6065](https://github.com/alacritty/alacritty/issues/6065) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+4. ❗️ Opened issue [#6](https://github.com/mrolli/lvim/issues/6) in [mrolli/lvim](https://github.com/mrolli/lvim)
 5. 🗣 Commented on [#51](https://github.com/rosariolm/myjournal/issues/51) in [rosariolm/myjournal](https://github.com/rosariolm/myjournal)
 <!--END_SECTION:activity-->
 
