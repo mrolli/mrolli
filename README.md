@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8](https://github.com/mrolli/lvim.config/issues/8) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-2. ❗️ Opened issue [#7](https://github.com/mrolli/lvim.config/issues/7) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-3. ❗️ Opened issue [#29](https://github.com/mrolli/dotfiles/issues/29) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. 🗣 Commented on [#6065](https://github.com/alacritty/alacritty/issues/6065) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-5. ❗️ Opened issue [#6065](https://github.com/alacritty/alacritty/issues/6065) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+1. ❗️ Opened issue [#30](https://github.com/mrolli/dotfiles/issues/30) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+2. ❗️ Opened issue [#8](https://github.com/mrolli/lvim.config/issues/8) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+3. ❗️ Opened issue [#7](https://github.com/mrolli/lvim.config/issues/7) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+4. ❗️ Opened issue [#29](https://github.com/mrolli/dotfiles/issues/29) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. 🗣 Commented on [#6065](https://github.com/alacritty/alacritty/issues/6065) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
 <!--END_SECTION:activity-->
 
 ### Github Stats
