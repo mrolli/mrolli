@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#40](https://github.com/u5cms/u5cms/issues/40) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-2. 🗣 Commented on [#40](https://github.com/u5cms/u5cms/issues/40) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. 🎉 Merged PR [#48](https://github.com/u5cms/u5cms/pull/48) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 💪 Opened PR [#48](https://github.com/u5cms/u5cms/pull/48) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. 🗣 Commented on [#30](https://github.com/mrolli/dotfiles/issues/30) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+1. 🎉 Merged PR [#10](https://github.com/mrolli/lvim.config/pull/10) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+2. ❗️ Closed issue [#1](https://github.com/mrolli/lvim.config/issues/1) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+3. 💪 Opened PR [#10](https://github.com/mrolli/lvim.config/pull/10) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+4. 🗣 Commented on [#1](https://github.com/mrolli/lvim.config/issues/1) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+5. ❗️ Closed issue [#40](https://github.com/u5cms/u5cms/issues/40) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
