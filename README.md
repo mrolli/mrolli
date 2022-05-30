@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#8](https://github.com/mrolli/lvim.config/issues/8) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-2. 🗣 Commented on [#8](https://github.com/mrolli/lvim.config/issues/8) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-3. ❗️ Closed issue [#11](https://github.com/mrolli/lvim.config/issues/11) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-4. 🗣 Commented on [#11](https://github.com/mrolli/lvim.config/issues/11) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-5. ❗️ Opened issue [#11](https://github.com/mrolli/lvim.config/issues/11) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+1. ❗️ Opened issue [#12](https://github.com/mrolli/lvim.config/issues/12) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+2. ❗️ Closed issue [#8](https://github.com/mrolli/lvim.config/issues/8) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+3. 🗣 Commented on [#8](https://github.com/mrolli/lvim.config/issues/8) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+4. ❗️ Closed issue [#11](https://github.com/mrolli/lvim.config/issues/11) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+5. 🗣 Commented on [#11](https://github.com/mrolli/lvim.config/issues/11) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
 <!--END_SECTION:activity-->
 
 ### Github Stats
