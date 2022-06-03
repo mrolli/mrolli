@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/mrolli/dotfiles/issues/31) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-2. ❗️ Opened issue [#12](https://github.com/mrolli/lvim.config/issues/12) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-3. ❗️ Closed issue [#8](https://github.com/mrolli/lvim.config/issues/8) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-4. 🗣 Commented on [#8](https://github.com/mrolli/lvim.config/issues/8) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-5. ❗️ Closed issue [#11](https://github.com/mrolli/lvim.config/issues/11) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+1. 🗣 Commented on [#41](https://github.com/u5cms/u5cms/issues/41) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+2. ❗️ Closed issue [#41](https://github.com/u5cms/u5cms/issues/41) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. 🗣 Commented on [#41](https://github.com/u5cms/u5cms/issues/41) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. ❗️ Opened issue [#31](https://github.com/mrolli/dotfiles/issues/31) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. ❗️ Opened issue [#12](https://github.com/mrolli/lvim.config/issues/12) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
 <!--END_SECTION:activity-->
 
 ### Github Stats
