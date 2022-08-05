@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/mrolli/lvim.config/pull/16) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-2. ❗️ Closed issue [#9](https://github.com/mrolli/lvim.config/issues/9) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-3. 💪 Opened PR [#16](https://github.com/mrolli/lvim.config/pull/16) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-4. 🗣 Commented on [#9](https://github.com/mrolli/lvim.config/issues/9) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-5. 🗣 Commented on [#104](https://github.com/JamshedVesuna/vim-markdown-preview/issues/104) in [JamshedVesuna/vim-markdown-preview](https://github.com/JamshedVesuna/vim-markdown-preview)
+1. ❗️ Opened issue [#1](https://github.com/mrolli/testytestness/issues/1) in [mrolli/testytestness](https://github.com/mrolli/testytestness)
+2. 🎉 Merged PR [#16](https://github.com/mrolli/lvim.config/pull/16) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+3. ❗️ Closed issue [#9](https://github.com/mrolli/lvim.config/issues/9) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+4. 💪 Opened PR [#16](https://github.com/mrolli/lvim.config/pull/16) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+5. 🗣 Commented on [#9](https://github.com/mrolli/lvim.config/issues/9) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
 <!--END_SECTION:activity-->
 
 ### Github Stats
