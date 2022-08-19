@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/mrolli/testytestness/issues/2) in [mrolli/testytestness](https://github.com/mrolli/testytestness)
-2. ❗️ Opened issue [#1](https://github.com/mrolli/testytestness/issues/1) in [mrolli/testytestness](https://github.com/mrolli/testytestness)
-3. 🎉 Merged PR [#16](https://github.com/mrolli/lvim.config/pull/16) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-4. ❗️ Closed issue [#9](https://github.com/mrolli/lvim.config/issues/9) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-5. 💪 Opened PR [#16](https://github.com/mrolli/lvim.config/pull/16) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+1. 🗣 Commented on [#32](https://github.com/treydock/puppet-infiniband/issues/32) in [treydock/puppet-infiniband](https://github.com/treydock/puppet-infiniband)
+2. ❗️ Opened issue [#2](https://github.com/mrolli/testytestness/issues/2) in [mrolli/testytestness](https://github.com/mrolli/testytestness)
+3. ❗️ Opened issue [#1](https://github.com/mrolli/testytestness/issues/1) in [mrolli/testytestness](https://github.com/mrolli/testytestness)
+4. 🎉 Merged PR [#16](https://github.com/mrolli/lvim.config/pull/16) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+5. ❗️ Closed issue [#9](https://github.com/mrolli/lvim.config/issues/9) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
 <!--END_SECTION:activity-->
 
 ### Github Stats
