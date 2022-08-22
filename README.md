@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#49](https://github.com/u5cms/u5cms/issues/49) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-2. 🎉 Merged PR [#52](https://github.com/u5cms/u5cms/pull/52) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. 💪 Opened PR [#52](https://github.com/u5cms/u5cms/pull/52) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 🗣 Commented on [#32](https://github.com/treydock/puppet-infiniband/issues/32) in [treydock/puppet-infiniband](https://github.com/treydock/puppet-infiniband)
-5. ❗️ Opened issue [#2](https://github.com/mrolli/testytestness/issues/2) in [mrolli/testytestness](https://github.com/mrolli/testytestness)
+1. ❗️ Closed issue [#34](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/34) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+2. ❗️ Closed issue [#49](https://github.com/u5cms/u5cms/issues/49) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. 🎉 Merged PR [#52](https://github.com/u5cms/u5cms/pull/52) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. 💪 Opened PR [#52](https://github.com/u5cms/u5cms/pull/52) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. 🗣 Commented on [#32](https://github.com/treydock/puppet-infiniband/issues/32) in [treydock/puppet-infiniband](https://github.com/treydock/puppet-infiniband)
 <!--END_SECTION:activity-->
 
 ### Github Stats
