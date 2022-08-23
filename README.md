@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#41](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/41) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-2. ❗️ Closed issue [#34](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/34) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-3. ❗️ Closed issue [#49](https://github.com/u5cms/u5cms/issues/49) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 🎉 Merged PR [#52](https://github.com/u5cms/u5cms/pull/52) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. 💪 Opened PR [#52](https://github.com/u5cms/u5cms/pull/52) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. ❗️ Closed issue [#2](https://github.com/hpc-unibe-ch/pocket-ubelix2/issues/2) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
+2. ❗️ Opened issue [#41](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/41) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+3. ❗️ Closed issue [#34](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/34) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+4. ❗️ Closed issue [#49](https://github.com/u5cms/u5cms/issues/49) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. 🎉 Merged PR [#52](https://github.com/u5cms/u5cms/pull/52) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
