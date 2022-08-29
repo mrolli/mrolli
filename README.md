@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/hpc-unibe-ch/rpmbuild_environment/issues/3) in [hpc-unibe-ch/rpmbuild_environment](https://github.com/hpc-unibe-ch/rpmbuild_environment)
-2. ❗️ Closed issue [#41](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/41) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-3. 🗣 Commented on [#41](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/41) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-4. 🗣 Commented on [#6](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/6) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-5. ❗️ Closed issue [#2](https://github.com/hpc-unibe-ch/pocket-ubelix2/issues/2) in [hpc-unibe-ch/pocket-ubelix2](https://github.com/hpc-unibe-ch/pocket-ubelix2)
+1. 💪 Opened PR [#42](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/42) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+2. ❗️ Opened issue [#3](https://github.com/hpc-unibe-ch/rpmbuild_environment/issues/3) in [hpc-unibe-ch/rpmbuild_environment](https://github.com/hpc-unibe-ch/rpmbuild_environment)
+3. ❗️ Closed issue [#41](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/41) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+4. 🗣 Commented on [#41](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/41) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+5. 🗣 Commented on [#6](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/6) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
 <!--END_SECTION:activity-->
 
 ### Github Stats
