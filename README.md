@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#44](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/44) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-2. ❗️ Opened issue [#43](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/43) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-3. ❗️ Closed issue [#22](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/22) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-4. 🎉 Merged PR [#42](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/42) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-5. 🗣 Commented on [#42](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/42) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+1. 🎉 Merged PR [#44](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/44) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+2. ❗️ Closed issue [#43](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/43) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+3. 💪 Opened PR [#44](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/44) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+4. ❗️ Opened issue [#43](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/43) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+5. ❗️ Closed issue [#22](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/22) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
 <!--END_SECTION:activity-->
 
 ### Github Stats
