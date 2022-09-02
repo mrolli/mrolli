@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/44) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-2. ❗️ Closed issue [#43](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/43) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-3. 💪 Opened PR [#44](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/44) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-4. ❗️ Opened issue [#43](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/43) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-5. ❗️ Closed issue [#22](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/22) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+1. ❗️ Closed issue [#17](https://github.com/mrolli/lvim.config/issues/17) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+2. ❗️ Closed issue [#17](https://github.com/mrolli/lvim.config/issues/17) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+3. 🎉 Merged PR [#18](https://github.com/mrolli/lvim.config/pull/18) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+4. 💪 Opened PR [#18](https://github.com/mrolli/lvim.config/pull/18) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+5. ❗️ Opened issue [#17](https://github.com/mrolli/lvim.config/issues/17) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
 <!--END_SECTION:activity-->
 
 ### Github Stats
