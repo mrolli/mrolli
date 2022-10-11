@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#32](https://github.com/mrolli/dotfiles/issues/32) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-2. 🎉 Merged PR [#33](https://github.com/mrolli/dotfiles/pull/33) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-3. 💪 Opened PR [#33](https://github.com/mrolli/dotfiles/pull/33) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. ❗️ Opened issue [#32](https://github.com/mrolli/dotfiles/issues/32) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-5. ❗️ Closed issue [#17](https://github.com/mrolli/lvim.config/issues/17) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+1. ❗️ Closed issue [#19](https://github.com/mrolli/lvim.config/issues/19) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+2. 🎉 Merged PR [#20](https://github.com/mrolli/lvim.config/pull/20) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+3. 💪 Opened PR [#20](https://github.com/mrolli/lvim.config/pull/20) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+4. ❗️ Opened issue [#19](https://github.com/mrolli/lvim.config/issues/19) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+5. ❗️ Closed issue [#32](https://github.com/mrolli/dotfiles/issues/32) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
