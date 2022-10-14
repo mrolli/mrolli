@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#47](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/47) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-2. 🎉 Merged PR [#48](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/48) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-3. 💪 Opened PR [#48](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/48) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-4. ❗️ Opened issue [#47](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/47) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-5. ❗️ Closed issue [#45](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/45) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+1. 💪 Opened PR [#2](https://github.com/ansible-buch/init-ansible-project/pull/2) in [ansible-buch/init-ansible-project](https://github.com/ansible-buch/init-ansible-project)
+2. ❗️ Opened issue [#1](https://github.com/ansible-buch/init-ansible-project/issues/1) in [ansible-buch/init-ansible-project](https://github.com/ansible-buch/init-ansible-project)
+3. ❗️ Closed issue [#47](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/47) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+4. 🎉 Merged PR [#48](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/48) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+5. 💪 Opened PR [#48](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/48) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
 <!--END_SECTION:activity-->
 
 ### Github Stats
