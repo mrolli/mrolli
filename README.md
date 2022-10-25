@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/ansible-buch/init-ansible-project/pull/2) in [ansible-buch/init-ansible-project](https://github.com/ansible-buch/init-ansible-project)
-2. ❗️ Opened issue [#1](https://github.com/ansible-buch/init-ansible-project/issues/1) in [ansible-buch/init-ansible-project](https://github.com/ansible-buch/init-ansible-project)
-3. ❗️ Closed issue [#47](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/47) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-4. 🎉 Merged PR [#48](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/48) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-5. 💪 Opened PR [#48](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/48) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+1. 🎉 Merged PR [#10](https://github.com/mrolli/myitjournal/pull/10) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
+2. 💪 Opened PR [#10](https://github.com/mrolli/myitjournal/pull/10) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
+3. ❗️ Opened issue [#9](https://github.com/mrolli/myitjournal/issues/9) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
+4. 💪 Opened PR [#2](https://github.com/ansible-buch/init-ansible-project/pull/2) in [ansible-buch/init-ansible-project](https://github.com/ansible-buch/init-ansible-project)
+5. ❗️ Opened issue [#1](https://github.com/ansible-buch/init-ansible-project/issues/1) in [ansible-buch/init-ansible-project](https://github.com/ansible-buch/init-ansible-project)
 <!--END_SECTION:activity-->
 
 ### Github Stats
