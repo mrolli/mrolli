@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/mrolli/myitjournal/pull/10) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
-2. 💪 Opened PR [#10](https://github.com/mrolli/myitjournal/pull/10) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
-3. ❗️ Opened issue [#9](https://github.com/mrolli/myitjournal/issues/9) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
-4. 💪 Opened PR [#2](https://github.com/ansible-buch/init-ansible-project/pull/2) in [ansible-buch/init-ansible-project](https://github.com/ansible-buch/init-ansible-project)
-5. ❗️ Opened issue [#1](https://github.com/ansible-buch/init-ansible-project/issues/1) in [ansible-buch/init-ansible-project](https://github.com/ansible-buch/init-ansible-project)
+1. ❗️ Closed issue [#1](https://github.com/mrolli/webappstack/issues/1) in [mrolli/webappstack](https://github.com/mrolli/webappstack)
+2. 🎉 Merged PR [#2](https://github.com/mrolli/webappstack/pull/2) in [mrolli/webappstack](https://github.com/mrolli/webappstack)
+3. 💪 Opened PR [#2](https://github.com/mrolli/webappstack/pull/2) in [mrolli/webappstack](https://github.com/mrolli/webappstack)
+4. ❗️ Opened issue [#1](https://github.com/mrolli/webappstack/issues/1) in [mrolli/webappstack](https://github.com/mrolli/webappstack)
+5. 🎉 Merged PR [#10](https://github.com/mrolli/myitjournal/pull/10) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
 <!--END_SECTION:activity-->
 
 ### Github Stats
