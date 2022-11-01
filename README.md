@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/mrolli/webappstack/issues/1) in [mrolli/webappstack](https://github.com/mrolli/webappstack)
-2. 🎉 Merged PR [#2](https://github.com/mrolli/webappstack/pull/2) in [mrolli/webappstack](https://github.com/mrolli/webappstack)
-3. 💪 Opened PR [#2](https://github.com/mrolli/webappstack/pull/2) in [mrolli/webappstack](https://github.com/mrolli/webappstack)
-4. ❗️ Opened issue [#1](https://github.com/mrolli/webappstack/issues/1) in [mrolli/webappstack](https://github.com/mrolli/webappstack)
-5. 🎉 Merged PR [#10](https://github.com/mrolli/myitjournal/pull/10) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
+1. ❗️ Closed issue [#49](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/49) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+2. 🎉 Merged PR [#50](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/50) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+3. 💪 Opened PR [#50](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/50) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+4. ❗️ Opened issue [#49](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/49) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+5. ❗️ Closed issue [#1](https://github.com/mrolli/webappstack/issues/1) in [mrolli/webappstack](https://github.com/mrolli/webappstack)
 <!--END_SECTION:activity-->
 
 ### Github Stats
