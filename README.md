@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#53](https://github.com/u5cms/u5cms/issues/53) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-2. ❗️ Closed issue [#9](https://github.com/mrolli/myitjournal/issues/9) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
-3. ❗️ Closed issue [#49](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/49) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-4. 🎉 Merged PR [#50](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/50) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
-5. 💪 Opened PR [#50](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/50) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+1. 💪 Opened PR [#1](https://github.com/banointan/myitjournal/pull/1) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
+2. ❗️ Opened issue [#53](https://github.com/u5cms/u5cms/issues/53) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. ❗️ Closed issue [#9](https://github.com/mrolli/myitjournal/issues/9) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
+4. ❗️ Closed issue [#49](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/issues/49) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
+5. 🎉 Merged PR [#50](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io/pull/50) in [hpc-unibe-ch/hpc-unibe-ch.github.io](https://github.com/hpc-unibe-ch/hpc-unibe-ch.github.io)
 <!--END_SECTION:activity-->
 
 ### Github Stats
