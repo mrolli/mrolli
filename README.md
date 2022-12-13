@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#814](https://github.com/warpdotdev/Warp/issues/814) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-2. 🗣 Commented on [#814](https://github.com/warpdotdev/Warp/issues/814) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
-3. 🎉 Merged PR [#56](https://github.com/u5cms/u5cms/pull/56) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 💪 Opened PR [#56](https://github.com/u5cms/u5cms/pull/56) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. ❗️ Closed issue [#53](https://github.com/u5cms/u5cms/issues/53) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. 🎉 Merged PR [#34](https://github.com/mrolli/dotfiles/pull/34) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+2. ❗️ Closed issue [#30](https://github.com/mrolli/dotfiles/issues/30) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+3. 💪 Opened PR [#34](https://github.com/mrolli/dotfiles/pull/34) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+4. 🗣 Commented on [#814](https://github.com/warpdotdev/Warp/issues/814) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
+5. 🗣 Commented on [#814](https://github.com/warpdotdev/Warp/issues/814) in [warpdotdev/Warp](https://github.com/warpdotdev/Warp)
 <!--END_SECTION:activity-->
 
 ### Github Stats
