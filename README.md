@@ -25,10 +25,10 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#57](https://github.com/u5cms/u5cms/issues/57) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-2. 🎉 Merged PR [#58](https://github.com/u5cms/u5cms/pull/58) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. 🗣 Commented on [#59](https://github.com/u5cms/u5cms/issues/59) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+2. ❗️ Closed issue [#57](https://github.com/u5cms/u5cms/issues/57) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 3. 🎉 Merged PR [#58](https://github.com/u5cms/u5cms/pull/58) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 🗣 Commented on [#57](https://github.com/u5cms/u5cms/issues/57) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. 🎉 Merged PR [#58](https://github.com/u5cms/u5cms/pull/58) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 5. 🗣 Commented on [#57](https://github.com/u5cms/u5cms/issues/57) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
