@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#29](https://github.com/mrolli/dotfiles/issues/29) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-2. 🎉 Merged PR [#35](https://github.com/mrolli/dotfiles/pull/35) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-3. 💪 Opened PR [#35](https://github.com/mrolli/dotfiles/pull/35) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. 🗣 Commented on [#59](https://github.com/u5cms/u5cms/issues/59) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. ❗️ Closed issue [#57](https://github.com/u5cms/u5cms/issues/57) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. 🗣 Commented on [#21](https://github.com/mrolli/lvim.config/issues/21) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+2. ❗️ Opened issue [#21](https://github.com/mrolli/lvim.config/issues/21) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+3. ❗️ Closed issue [#29](https://github.com/mrolli/dotfiles/issues/29) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+4. 🎉 Merged PR [#35](https://github.com/mrolli/dotfiles/pull/35) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. 💪 Opened PR [#35](https://github.com/mrolli/dotfiles/pull/35) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
