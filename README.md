@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#60](https://github.com/u5cms/u5cms/issues/60) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-2. ❗️ Closed issue [#60](https://github.com/u5cms/u5cms/issues/60) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. ❗️ Opened issue [#60](https://github.com/u5cms/u5cms/issues/60) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 🗣 Commented on [#21](https://github.com/mrolli/lvim.config/issues/21) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
-5. ❗️ Opened issue [#21](https://github.com/mrolli/lvim.config/issues/21) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
+1. ❗️ Opened issue [#1](https://github.com/mrolli/macos-deplaybook/issues/1) in [mrolli/macos-deplaybook](https://github.com/mrolli/macos-deplaybook)
+2. 🗣 Commented on [#60](https://github.com/u5cms/u5cms/issues/60) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. ❗️ Closed issue [#60](https://github.com/u5cms/u5cms/issues/60) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. ❗️ Opened issue [#60](https://github.com/u5cms/u5cms/issues/60) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. 🗣 Commented on [#21](https://github.com/mrolli/lvim.config/issues/21) in [mrolli/lvim.config](https://github.com/mrolli/lvim.config)
 <!--END_SECTION:activity-->
 
 ### Github Stats
