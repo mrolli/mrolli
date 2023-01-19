@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/banointan/webapp-stack/issues/1) in [banointan/webapp-stack](https://github.com/banointan/webapp-stack)
-2. 🎉 Merged PR [#12](https://github.com/mrolli/myitjournal/pull/12) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
-3. ❗️ Opened issue [#1](https://github.com/mrolli/macos-deplaybook/issues/1) in [mrolli/macos-deplaybook](https://github.com/mrolli/macos-deplaybook)
-4. 🗣 Commented on [#60](https://github.com/u5cms/u5cms/issues/60) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. ❗️ Closed issue [#60](https://github.com/u5cms/u5cms/issues/60) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. ❗️ Opened issue [#2](https://github.com/banointan/myitjournal/issues/2) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
+2. ❗️ Opened issue [#1](https://github.com/banointan/webapp-stack/issues/1) in [banointan/webapp-stack](https://github.com/banointan/webapp-stack)
+3. 🎉 Merged PR [#12](https://github.com/mrolli/myitjournal/pull/12) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
+4. ❗️ Opened issue [#1](https://github.com/mrolli/macos-deplaybook/issues/1) in [mrolli/macos-deplaybook](https://github.com/mrolli/macos-deplaybook)
+5. 🗣 Commented on [#60](https://github.com/u5cms/u5cms/issues/60) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
