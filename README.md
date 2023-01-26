@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/banointan/myitjournal/pull/4) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
-2. ❗️ Opened issue [#3](https://github.com/banointan/myitjournal/issues/3) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
-3. ❗️ Opened issue [#2](https://github.com/banointan/myitjournal/issues/2) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
-4. ❗️ Opened issue [#1](https://github.com/banointan/webapp-stack/issues/1) in [banointan/webapp-stack](https://github.com/banointan/webapp-stack)
-5. 🎉 Merged PR [#12](https://github.com/mrolli/myitjournal/pull/12) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
+1. 💪 Opened PR [#2](https://github.com/idsys-unibe-ch/.github/pull/2) in [idsys-unibe-ch/.github](https://github.com/idsys-unibe-ch/.github)
+2. ❗️ Opened issue [#1](https://github.com/idsys-unibe-ch/.github/issues/1) in [idsys-unibe-ch/.github](https://github.com/idsys-unibe-ch/.github)
+3. 💪 Opened PR [#4](https://github.com/banointan/myitjournal/pull/4) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
+4. ❗️ Opened issue [#3](https://github.com/banointan/myitjournal/issues/3) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
+5. ❗️ Opened issue [#2](https://github.com/banointan/myitjournal/issues/2) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
 <!--END_SECTION:activity-->
 
 ### Github Stats
