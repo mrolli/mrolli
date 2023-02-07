@@ -27,9 +27,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#61](https://github.com/u5cms/u5cms/issues/61) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 2. ❗️ Opened issue [#61](https://github.com/u5cms/u5cms/issues/61) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. ❗️ Closed issue [#1](https://github.com/idsys-unibe-ch/.github/issues/1) in [idsys-unibe-ch/.github](https://github.com/idsys-unibe-ch/.github)
-4. 🎉 Merged PR [#2](https://github.com/idsys-unibe-ch/.github/pull/2) in [idsys-unibe-ch/.github](https://github.com/idsys-unibe-ch/.github)
-5. 💪 Opened PR [#2](https://github.com/idsys-unibe-ch/.github/pull/2) in [idsys-unibe-ch/.github](https://github.com/idsys-unibe-ch/.github)
+3. 💪 Opened PR [#4](https://github.com/banointan/myitjournal/pull/4) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
+4. ❗️ Opened issue [#3](https://github.com/banointan/myitjournal/issues/3) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
+5. ❗️ Opened issue [#2](https://github.com/banointan/myitjournal/issues/2) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
 <!--END_SECTION:activity-->
 
 ### Github Stats
