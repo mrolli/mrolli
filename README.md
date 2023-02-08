@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/banointan/webapp-stack/issues/2) in [banointan/webapp-stack](https://github.com/banointan/webapp-stack)
-2. 🗣 Commented on [#61](https://github.com/u5cms/u5cms/issues/61) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. ❗️ Opened issue [#61](https://github.com/u5cms/u5cms/issues/61) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 💪 Opened PR [#4](https://github.com/banointan/myitjournal/pull/4) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
-5. ❗️ Opened issue [#3](https://github.com/banointan/myitjournal/issues/3) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
+1. 🗣 Commented on [#2](https://github.com/banointan/webapp-stack/issues/2) in [banointan/webapp-stack](https://github.com/banointan/webapp-stack)
+2. 💪 Opened PR [#6](https://github.com/banointan/myitjournal/pull/6) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
+3. ❗️ Opened issue [#2](https://github.com/banointan/webapp-stack/issues/2) in [banointan/webapp-stack](https://github.com/banointan/webapp-stack)
+4. 🗣 Commented on [#61](https://github.com/u5cms/u5cms/issues/61) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. ❗️ Opened issue [#61](https://github.com/u5cms/u5cms/issues/61) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
