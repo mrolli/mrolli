@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/banointan/webapp-stack/issues/2) in [banointan/webapp-stack](https://github.com/banointan/webapp-stack)
-2. 💪 Opened PR [#6](https://github.com/banointan/myitjournal/pull/6) in [banointan/myitjournal](https://github.com/banointan/myitjournal)
-3. ❗️ Opened issue [#2](https://github.com/banointan/webapp-stack/issues/2) in [banointan/webapp-stack](https://github.com/banointan/webapp-stack)
-4. 🗣 Commented on [#61](https://github.com/u5cms/u5cms/issues/61) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. ❗️ Opened issue [#61](https://github.com/u5cms/u5cms/issues/61) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. ❗️ Closed issue [#63](https://github.com/u5cms/u5cms/issues/63) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+2. 🎉 Merged PR [#64](https://github.com/u5cms/u5cms/pull/64) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. 💪 Opened PR [#64](https://github.com/u5cms/u5cms/pull/64) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. ❗️ Opened issue [#63](https://github.com/u5cms/u5cms/issues/63) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. 🗣 Commented on [#2](https://github.com/banointan/webapp-stack/issues/2) in [banointan/webapp-stack](https://github.com/banointan/webapp-stack)
 <!--END_SECTION:activity-->
 
 ### Github Stats
