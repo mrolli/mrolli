@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 ### Github Stats
-[![mrolli's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrolli&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  
-[![mrolli's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrolli&count_private=true&theme=onedark&hide=c%2B%2B,c,html,cmake,makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![mrolli's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrolli&count_private=true&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)  
+<!-- [![mrolli's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrolli&count_private=true&theme=onedark&hide=c%2B%2B,c,html,cmake,makefile&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
