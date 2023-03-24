@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#752](https://github.com/bash-lsp/bash-language-server/issues/752) in [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)
+1. ❗️ Closed issue [#65](https://github.com/u5cms/u5cms/issues/65) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 2. 🗣 Commented on [#752](https://github.com/bash-lsp/bash-language-server/issues/752) in [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)
-3. ❗️ Closed issue [#63](https://github.com/u5cms/u5cms/issues/63) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 🎉 Merged PR [#64](https://github.com/u5cms/u5cms/pull/64) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. 💪 Opened PR [#64](https://github.com/u5cms/u5cms/pull/64) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. 🗣 Commented on [#752](https://github.com/bash-lsp/bash-language-server/issues/752) in [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)
+4. ❗️ Closed issue [#63](https://github.com/u5cms/u5cms/issues/63) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. 🎉 Merged PR [#64](https://github.com/u5cms/u5cms/pull/64) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
