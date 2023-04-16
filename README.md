@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/mrolli/dotfiles/issues/39) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-2. ❗️ Closed issue [#36](https://github.com/mrolli/dotfiles/issues/36) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-3. 🎉 Merged PR [#38](https://github.com/mrolli/dotfiles/pull/38) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. 💪 Opened PR [#38](https://github.com/mrolli/dotfiles/pull/38) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-5. ❗️ Opened issue [#1](https://github.com/mrolli/zsh.config/issues/1) in [mrolli/zsh.config](https://github.com/mrolli/zsh.config)
+1. ❗️ Opened issue [#41](https://github.com/mrolli/dotfiles/issues/41) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+2. ❗️ Closed issue [#39](https://github.com/mrolli/dotfiles/issues/39) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+3. 🎉 Merged PR [#40](https://github.com/mrolli/dotfiles/pull/40) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+4. 🗣 Commented on [#37](https://github.com/mrolli/dotfiles/issues/37) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. 💪 Opened PR [#40](https://github.com/mrolli/dotfiles/pull/40) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
