@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#37](https://github.com/mrolli/dotfiles/issues/37) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-2. ❗️ Opened issue [#36](https://github.com/mrolli/dotfiles/issues/36) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-3. 💪 Opened PR [#12356](https://github.com/hashicorp/packer/pull/12356) in [hashicorp/packer](https://github.com/hashicorp/packer)
-4. 🗣 Commented on [#752](https://github.com/bash-lsp/bash-language-server/issues/752) in [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)
-5. 🎉 Merged PR [#66](https://github.com/u5cms/u5cms/pull/66) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. ❗️ Opened issue [#1](https://github.com/mrolli/zsh.config/issues/1) in [mrolli/zsh.config](https://github.com/mrolli/zsh.config)
+2. ❗️ Opened issue [#37](https://github.com/mrolli/dotfiles/issues/37) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+3. ❗️ Opened issue [#36](https://github.com/mrolli/dotfiles/issues/36) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+4. 💪 Opened PR [#12356](https://github.com/hashicorp/packer/pull/12356) in [hashicorp/packer](https://github.com/hashicorp/packer)
+5. 🗣 Commented on [#752](https://github.com/bash-lsp/bash-language-server/issues/752) in [bash-lsp/bash-language-server](https://github.com/bash-lsp/bash-language-server)
 <!--END_SECTION:activity-->
 
 ### Github Stats
