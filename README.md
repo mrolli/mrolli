@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#37](https://github.com/mrolli/dotfiles/issues/37) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-2. 🗣 Commented on [#37](https://github.com/mrolli/dotfiles/issues/37) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-3. ❗️ Closed issue [#43](https://github.com/mrolli/dotfiles/issues/43) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. 🎉 Merged PR [#44](https://github.com/mrolli/dotfiles/pull/44) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-5. 💪 Opened PR [#44](https://github.com/mrolli/dotfiles/pull/44) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+1. ❗️ Opened issue [#1](https://github.com/mrolli/role-factory/issues/1) in [mrolli/role-factory](https://github.com/mrolli/role-factory)
+2. ❗️ Closed issue [#37](https://github.com/mrolli/dotfiles/issues/37) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+3. 🗣 Commented on [#37](https://github.com/mrolli/dotfiles/issues/37) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+4. ❗️ Closed issue [#43](https://github.com/mrolli/dotfiles/issues/43) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. 🎉 Merged PR [#44](https://github.com/mrolli/dotfiles/pull/44) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
