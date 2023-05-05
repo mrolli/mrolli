@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/mrolli/role-factory/issues/3) in [mrolli/role-factory](https://github.com/mrolli/role-factory)
-2. 🎉 Merged PR [#2](https://github.com/mrolli/role-factory/pull/2) in [mrolli/role-factory](https://github.com/mrolli/role-factory)
-3. 💪 Opened PR [#2](https://github.com/mrolli/role-factory/pull/2) in [mrolli/role-factory](https://github.com/mrolli/role-factory)
-4. ❗️ Closed issue [#41](https://github.com/mrolli/dotfiles/issues/41) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-5. 🎉 Merged PR [#47](https://github.com/mrolli/dotfiles/pull/47) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+1. 🎉 Merged PR [#67](https://github.com/u5cms/u5cms/pull/67) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+2. 💪 Opened PR [#67](https://github.com/u5cms/u5cms/pull/67) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. ❗️ Opened issue [#3](https://github.com/mrolli/role-factory/issues/3) in [mrolli/role-factory](https://github.com/mrolli/role-factory)
+4. 🎉 Merged PR [#2](https://github.com/mrolli/role-factory/pull/2) in [mrolli/role-factory](https://github.com/mrolli/role-factory)
+5. 💪 Opened PR [#2](https://github.com/mrolli/role-factory/pull/2) in [mrolli/role-factory](https://github.com/mrolli/role-factory)
 <!--END_SECTION:activity-->
 
 ### Github Stats
