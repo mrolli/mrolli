@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#52](https://github.com/mrolli/dotfiles/issues/52) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-2. ❗️ Opened issue [#51](https://github.com/mrolli/dotfiles/issues/51) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-3. ❗️ Opened issue [#50](https://github.com/mrolli/dotfiles/issues/50) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. ❗️ Opened issue [#4](https://github.com/mrolli/zsh-macos-goodies/issues/4) in [mrolli/zsh-macos-goodies](https://github.com/mrolli/zsh-macos-goodies)
-5. ❗️ Closed issue [#46](https://github.com/mrolli/dotfiles/issues/46) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+1. ❗️ Closed issue [#50](https://github.com/mrolli/dotfiles/issues/50) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+2. 🎉 Merged PR [#53](https://github.com/mrolli/dotfiles/pull/53) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+3. 💪 Opened PR [#53](https://github.com/mrolli/dotfiles/pull/53) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+4. ❗️ Opened issue [#52](https://github.com/mrolli/dotfiles/issues/52) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. ❗️ Opened issue [#51](https://github.com/mrolli/dotfiles/issues/51) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
