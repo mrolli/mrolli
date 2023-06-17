@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/u5cms/u5cms/issues/68) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-2. ❗ Opened issue [#54](https://github.com/mrolli/dotfiles/issues/54) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-3. 🔒 Closed issue [#50](https://github.com/mrolli/dotfiles/issues/50) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. 🎉 Merged PR [#53](https://github.com/mrolli/dotfiles/pull/53) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-5. 💪 Opened PR [#53](https://github.com/mrolli/dotfiles/pull/53) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+1. ❗ Opened issue [#3866](https://github.com/wez/wezterm/issues/3866) in [wez/wezterm](https://github.com/wez/wezterm)
+2. 🗣 Commented on [#68](https://github.com/u5cms/u5cms/issues/68) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. ❗ Opened issue [#54](https://github.com/mrolli/dotfiles/issues/54) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+4. 🔒 Closed issue [#50](https://github.com/mrolli/dotfiles/issues/50) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. 🎉 Merged PR [#53](https://github.com/mrolli/dotfiles/pull/53) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
