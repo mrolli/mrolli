@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3866](https://github.com/wez/wezterm/issues/3866) in [wez/wezterm](https://github.com/wez/wezterm)
-2. 🗣 Commented on [#3866](https://github.com/wez/wezterm/issues/3866) in [wez/wezterm](https://github.com/wez/wezterm)
-3. ❗ Opened issue [#3866](https://github.com/wez/wezterm/issues/3866) in [wez/wezterm](https://github.com/wez/wezterm)
-4. 🗣 Commented on [#68](https://github.com/u5cms/u5cms/issues/68) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. ❗ Opened issue [#54](https://github.com/mrolli/dotfiles/issues/54) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+1. 🚀 Published release [u5cms-12.0.0](https://github.com/u5cms-12.0.0) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+2. 🎉 Merged PR [#68](https://github.com/u5cms/u5cms/pull/68) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. 🗣 Commented on [#3866](https://github.com/wez/wezterm/issues/3866) in [wez/wezterm](https://github.com/wez/wezterm)
+4. 🗣 Commented on [#3866](https://github.com/wez/wezterm/issues/3866) in [wez/wezterm](https://github.com/wez/wezterm)
+5. ❗ Opened issue [#3866](https://github.com/wez/wezterm/issues/3866) in [wez/wezterm](https://github.com/wez/wezterm)
 <!--END_SECTION:activity-->
 
 ### Github Stats
