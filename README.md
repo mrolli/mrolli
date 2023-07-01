@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#68](https://github.com/u5cms/u5cms/issues/68) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-2. 🚀 Published release [u5cms-12.1.0](https://github.com/u5cms-12.1.0) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. 🚀 Published release [u5cms-8.7.0](https://github.com/u5cms-8.7.0) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 🚀 Published release [u5cms-12.0.0](https://github.com/u5cms-12.0.0) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. 🎉 Merged PR [#68](https://github.com/u5cms/u5cms/pull/68) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. ❗ Opened issue [#69](https://github.com/u5cms/u5cms/issues/69) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+2. 🗣 Commented on [#68](https://github.com/u5cms/u5cms/issues/68) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. 🚀 Published release [u5cms-12.1.0](https://github.com/u5cms-12.1.0) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. 🚀 Published release [u5cms-8.7.0](https://github.com/u5cms-8.7.0) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. 🚀 Published release [u5cms-12.0.0](https://github.com/u5cms-12.0.0) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
