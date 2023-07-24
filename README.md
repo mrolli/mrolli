@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/mrolli/testy/issues/2) in [mrolli/testy](https://github.com/mrolli/testy)
-2. 🔒 Closed issue [#1](https://github.com/mrolli/testy/issues/1) in [mrolli/testy](https://github.com/mrolli/testy)
-3. 🗣 Commented on [#1](https://github.com/mrolli/testy/issues/1#issuecomment-1646753569) in [mrolli/testy](https://github.com/mrolli/testy)
-4. 🗣 Commented on [#1](https://github.com/mrolli/testy/issues/1#issuecomment-1646752698) in [mrolli/testy](https://github.com/mrolli/testy)
-5. ❗ Opened issue [#1](https://github.com/mrolli/testy/issues/1) in [mrolli/testy](https://github.com/mrolli/testy)
+1. 💪 Opened PR [#2](https://github.com/mrolli/nextgen-superparser/pull/2) in [mrolli/nextgen-superparser](https://github.com/mrolli/nextgen-superparser)
+2. ❗ Opened issue [#1](https://github.com/mrolli/nextgen-superparser/issues/1) in [mrolli/nextgen-superparser](https://github.com/mrolli/nextgen-superparser)
+3. ❗ Opened issue [#2](https://github.com/mrolli/testy/issues/2) in [mrolli/testy](https://github.com/mrolli/testy)
+4. 🔒 Closed issue [#1](https://github.com/mrolli/testy/issues/1) in [mrolli/testy](https://github.com/mrolli/testy)
+5. 🗣 Commented on [#1](https://github.com/mrolli/testy/issues/1#issuecomment-1646753569) in [mrolli/testy](https://github.com/mrolli/testy)
 <!--END_SECTION:activity-->
 
 ### Github Stats
