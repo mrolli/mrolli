@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [u5cms-12.2.1](https://github.com/u5cms/u5cms/releases/tag/v12.2.1) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-2. 🎉 Merged PR [#80](https://github.com/u5cms/u5cms/pull/80) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. 🔒 Closed issue [#79](https://github.com/u5cms/u5cms/issues/79) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 💪 Opened PR [#80](https://github.com/u5cms/u5cms/pull/80) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. ❗ Opened issue [#79](https://github.com/u5cms/u5cms/issues/79) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. 🚀 Published release [u5cms-12.2.2](https://github.com/u5cms/u5cms/releases/tag/v12.2.2) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+2. 🔒 Closed issue [#83](https://github.com/u5cms/u5cms/issues/83) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. 💪 Opened PR [#84](https://github.com/u5cms/u5cms/pull/84) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. ❗ Opened issue [#83](https://github.com/u5cms/u5cms/issues/83) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. 🎉 Merged PR [#82](https://github.com/u5cms/u5cms/pull/82) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
