@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/mrolli/tfaz-playground/issues/1) in [mrolli/tfaz-playground](https://github.com/mrolli/tfaz-playground)
-2. 🚀 Published release [u5cms-12.2.2](https://github.com/u5cms/u5cms/releases/tag/v12.2.2) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. 🔒 Closed issue [#83](https://github.com/u5cms/u5cms/issues/83) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 💪 Opened PR [#84](https://github.com/u5cms/u5cms/pull/84) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. ❗ Opened issue [#83](https://github.com/u5cms/u5cms/issues/83) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. 🔒 Closed issue [#1](https://github.com/mrolli/tfaz-playground/issues/1) in [mrolli/tfaz-playground](https://github.com/mrolli/tfaz-playground)
+2. 🎉 Merged PR [#2](https://github.com/mrolli/tfaz-playground/pull/2) in [mrolli/tfaz-playground](https://github.com/mrolli/tfaz-playground)
+3. 💪 Opened PR [#2](https://github.com/mrolli/tfaz-playground/pull/2) in [mrolli/tfaz-playground](https://github.com/mrolli/tfaz-playground)
+4. ❗ Opened issue [#1](https://github.com/mrolli/tfaz-playground/issues/1) in [mrolli/tfaz-playground](https://github.com/mrolli/tfaz-playground)
+5. 🚀 Published release [u5cms-12.2.2](https://github.com/u5cms/u5cms/releases/tag/v12.2.2) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
