@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#11](https://github.com/mrolli/myitjournal/pull/11) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
-2. 🗣 Commented on [#11](https://github.com/mrolli/myitjournal/pull/11#issuecomment-1705242799) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
-3. 🗣 Commented on [#11](https://github.com/mrolli/myitjournal/pull/11#issuecomment-1705211396) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
-4. 🎉 Merged PR [#13](https://github.com/mrolli/myitjournal/pull/13) in [mrolli/myitjournal](https://github.com/mrolli/myitjournal)
-5. 🔒 Closed issue [#5](https://github.com/id-unibe-ch/ansible-role-template/issues/5) in [id-unibe-ch/ansible-role-template](https://github.com/id-unibe-ch/ansible-role-template)
+1. 🚀 Published release [u5cms-12.4.0](https://github.com/u5cms/u5cms/releases/tag/v12.4.0) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+2. 🔒 Closed issue [#85](https://github.com/u5cms/u5cms/issues/85) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. 🎉 Merged PR [#86](https://github.com/u5cms/u5cms/pull/86) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. 💪 Opened PR [#86](https://github.com/u5cms/u5cms/pull/86) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. ❗ Opened issue [#85](https://github.com/u5cms/u5cms/issues/85) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
