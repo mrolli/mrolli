@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [u5cms-12.4.0](https://github.com/u5cms/u5cms/releases/tag/v12.4.0) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-2. 🔒 Closed issue [#85](https://github.com/u5cms/u5cms/issues/85) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. 🎉 Merged PR [#86](https://github.com/u5cms/u5cms/pull/86) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 💪 Opened PR [#86](https://github.com/u5cms/u5cms/pull/86) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. ❗ Opened issue [#85](https://github.com/u5cms/u5cms/issues/85) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. ❗ Opened issue [#19](https://github.com/id-unibe-ch/ansible-role-postfix/issues/19) in [id-unibe-ch/ansible-role-postfix](https://github.com/id-unibe-ch/ansible-role-postfix)
+2. 🚀 Published release [u5cms-12.4.0](https://github.com/u5cms/u5cms/releases/tag/v12.4.0) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. 🔒 Closed issue [#85](https://github.com/u5cms/u5cms/issues/85) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. 🎉 Merged PR [#86](https://github.com/u5cms/u5cms/pull/86) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+5. 💪 Opened PR [#86](https://github.com/u5cms/u5cms/pull/86) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
