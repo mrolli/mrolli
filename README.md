@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ### I am a
 - Husband and father
-- Medical doctor, Linux System Engineer, PHP programmer, DBA and Puppet-eer
+- Medical doctor, Linux System Engineer, PHP programmer, DBA and config manager (Puppet/Ansible)
 - DevOps, Git/Github, Vim and macOS enthusiast
-- fresh learner of Ansible and Greek
+- fresh learner of Terraform, Azure and Greek
 - Karateka, Modular Synth Geek, LEGO bricks stacker and Playstation gamer 
 
 ### :zap: Recent Activity
