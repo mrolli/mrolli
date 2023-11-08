@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/id-unibe-ch/ansible-role-ssh/pull/7#issuecomment-1795314598) in [id-unibe-ch/ansible-role-ssh](https://github.com/id-unibe-ch/ansible-role-ssh)
-2. 🚀 Published release [u5cms-12.4.4](https://github.com/u5cms/u5cms/releases/tag/v12.4.4) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. ❗ Opened issue [#91](https://github.com/u5cms/u5cms/issues/91) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 🚀 Published release [u5cms-12.4.3](https://github.com/u5cms/u5cms/releases/tag/v12.4.3) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. 🎉 Merged PR [#88](https://github.com/u5cms/u5cms/pull/88) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. 🔒 Closed issue [#55](https://github.com/mrolli/dotfiles/issues/55) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+2. 🎉 Merged PR [#56](https://github.com/mrolli/dotfiles/pull/56) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+3. 💪 Opened PR [#56](https://github.com/mrolli/dotfiles/pull/56) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+4. ❗ Opened issue [#55](https://github.com/mrolli/dotfiles/issues/55) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. 🗣 Commented on [#7](https://github.com/id-unibe-ch/ansible-role-ssh/pull/7#issuecomment-1795314598) in [id-unibe-ch/ansible-role-ssh](https://github.com/id-unibe-ch/ansible-role-ssh)
 <!--END_SECTION:activity-->
 
 ### Github Stats
