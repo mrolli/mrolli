@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/id-unibe-ch/ansible-role-ssh/issues/8) in [id-unibe-ch/ansible-role-ssh](https://github.com/id-unibe-ch/ansible-role-ssh)
-2. 🚀 Published release [u5cms-12.4.5](https://github.com/u5cms/u5cms/releases/tag/v12.4.5) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. 🔒 Closed issue [#55](https://github.com/mrolli/dotfiles/issues/55) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-4. 🎉 Merged PR [#56](https://github.com/mrolli/dotfiles/pull/56) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-5. 💪 Opened PR [#56](https://github.com/mrolli/dotfiles/pull/56) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+1. 💪 Opened PR [#9](https://github.com/id-unibe-ch/ansible-role-ssh/pull/9) in [id-unibe-ch/ansible-role-ssh](https://github.com/id-unibe-ch/ansible-role-ssh)
+2. ❗ Opened issue [#8](https://github.com/id-unibe-ch/ansible-role-ssh/issues/8) in [id-unibe-ch/ansible-role-ssh](https://github.com/id-unibe-ch/ansible-role-ssh)
+3. 🚀 Published release [u5cms-12.4.5](https://github.com/u5cms/u5cms/releases/tag/v12.4.5) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. 🔒 Closed issue [#55](https://github.com/mrolli/dotfiles/issues/55) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. 🎉 Merged PR [#56](https://github.com/mrolli/dotfiles/pull/56) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
 <!--END_SECTION:activity-->
 
 ### Github Stats
