@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#8](https://github.com/id-unibe-ch/ansible-role-ssh/issues/8) in [id-unibe-ch/ansible-role-ssh](https://github.com/id-unibe-ch/ansible-role-ssh)
-2. 🎉 Merged PR [#9](https://github.com/id-unibe-ch/ansible-role-ssh/pull/9) in [id-unibe-ch/ansible-role-ssh](https://github.com/id-unibe-ch/ansible-role-ssh)
-3. 🗣 Commented on [#9](https://github.com/id-unibe-ch/ansible-role-ssh/pull/9#issuecomment-1810039232) in [id-unibe-ch/ansible-role-ssh](https://github.com/id-unibe-ch/ansible-role-ssh)
-4. 💪 Opened PR [#9](https://github.com/id-unibe-ch/ansible-role-ssh/pull/9) in [id-unibe-ch/ansible-role-ssh](https://github.com/id-unibe-ch/ansible-role-ssh)
-5. ❗ Opened issue [#8](https://github.com/id-unibe-ch/ansible-role-ssh/issues/8) in [id-unibe-ch/ansible-role-ssh](https://github.com/id-unibe-ch/ansible-role-ssh)
+1. 🚀 Published release [u5cms-12.4.6](https://github.com/u5cms/u5cms/releases/tag/v12.4.6) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+2. 🎉 Merged PR [#92](https://github.com/u5cms/u5cms/pull/92) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. 🔒 Closed issue [#8](https://github.com/id-unibe-ch/ansible-role-ssh/issues/8) in [id-unibe-ch/ansible-role-ssh](https://github.com/id-unibe-ch/ansible-role-ssh)
+4. 🎉 Merged PR [#9](https://github.com/id-unibe-ch/ansible-role-ssh/pull/9) in [id-unibe-ch/ansible-role-ssh](https://github.com/id-unibe-ch/ansible-role-ssh)
+5. 🗣 Commented on [#9](https://github.com/id-unibe-ch/ansible-role-ssh/pull/9#issuecomment-1810039232) in [id-unibe-ch/ansible-role-ssh](https://github.com/id-unibe-ch/ansible-role-ssh)
 <!--END_SECTION:activity-->
 
 ### Github Stats
