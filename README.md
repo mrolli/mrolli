@@ -25,11 +25,11 @@ Here are some ideas to get you started:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#57](https://github.com/mrolli/dotfiles/issues/57) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
-2. 🚀 Published release [u5cms-12.4.9](https://github.com/u5cms/u5cms/releases/tag/v12.4.9) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-3. 🎉 Merged PR [#94](https://github.com/u5cms/u5cms/pull/94) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-4. 🔒 Closed issue [#51](https://github.com/u5cms/u5cms/issues/51) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
-5. 💪 Opened PR [#94](https://github.com/u5cms/u5cms/pull/94) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+1. 🚀 Published release [u5cms-12.5.2](https://github.com/u5cms/u5cms/releases/tag/v12.5.2) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+2. 🎉 Merged PR [#95](https://github.com/u5cms/u5cms/pull/95) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+3. 💪 Opened PR [#95](https://github.com/u5cms/u5cms/pull/95) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
+4. ❗ Opened issue [#57](https://github.com/mrolli/dotfiles/issues/57) in [mrolli/dotfiles](https://github.com/mrolli/dotfiles)
+5. 🚀 Published release [u5cms-12.4.9](https://github.com/u5cms/u5cms/releases/tag/v12.4.9) in [u5cms/u5cms](https://github.com/u5cms/u5cms)
 <!--END_SECTION:activity-->
 
 ### Github Stats
