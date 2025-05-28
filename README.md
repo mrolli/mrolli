@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 
 <div style="display: flex;">
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrolli&hide_title=false&theme=gruvbox&show_icons=true&count_private=true&hide_border=true&mode=weekly">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mrolli&theme=gruvbox&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
 </div>
 
 ## Random quotes
