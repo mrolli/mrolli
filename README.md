@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Michael, χάρηκα πολύ!
+# Hi there 👋 I'm Michael, χάρηκα πολύ
 
 <!--
 **mrolli/mrolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 - Husband and father
 - Medical doctor, Linux System Engineer, PHP programmer, DBA and config manager (Puppet/Ansible)
 - DevOps, Git/Github, Vim and macOS enthusiast
-- fresh learner of Terraform, Azure and Greek
-- Karateka, Modular Synth Geek, LEGO bricks stacker and Playstation gamer 
+- fresh learner of Terraform, Azure and AWS
+- Karateka, Modular Synth Geek, LEGO bricks stacker and Playstation gamer
 
 ## 🧰 Languages and tools
-
 
 <div style="display: flex;">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -52,6 +51,7 @@ Here are some ideas to get you started:
 </div>
 
 ## :zap: github.com Statistics
+
 <div style="display: flex;">
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrolli&hide_title=false&theme=gruvbox&show_icons=true&count_private=true&hide_border=true&mode=weekly">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=mrolli&theme=gruvbox&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" />
