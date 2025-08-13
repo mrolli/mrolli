@@ -52,9 +52,8 @@ Here are some ideas to get you started:
 
 ## :zap: github.com Statistics
 
-<div style="display: flex;">
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mrolli&hide_title=false&theme=gruvbox&show_icons=true&count_private=true&hide_border=true&mode=weekly">
-</div>
+![](https://raw.githubusercontent.com/mrolli/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/mrolli/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ## Random quotes
 
