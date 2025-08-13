@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 ## 🧑 I am a
 
 - Husband and father
-- Medical doctor, Linux System Engineer, PHP programmer, DBA and config manager (Puppet/Ansible)
-- DevOps, Git/Github, Vim and macOS enthusiast
+- Medical doctor, Cloud and Linux System Engineer
+- IaC, Git/Github, Vim and macOS enthusiast
 - fresh learner of Terraform, Azure and AWS
-- Karateka, Modular Synth Geek, LEGO bricks stacker and Playstation gamer
+- Karateka (1st Dan), Modular Synth Geek, LEGO bricks stacker and Playstation gamer
 
 ## 🧰 Languages and tools
 
