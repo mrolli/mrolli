@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 - 🌱 I'm currently learning Terraform, Azure and AWS
 - ⚡ In my spare time, I'm a Karateka (1st Dan), Modular Synth Geek, LEGO bricks stacker and Playstation gamer
 
-![](https://raw.githubusercontent.com/mrolli/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mrolli/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![Statistics Image](https://github.com/mrolli/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![Statistics Image](https://github.com/mrolli/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![Statistics Image](https://github.com/mrolli/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![Statistics Image](https://github.com/mrolli/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
