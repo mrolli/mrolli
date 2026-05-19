@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![Statistics Image](https://github.com/mrolli/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 ![Statistics Image](https://github.com/mrolli/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 ![Statistics Image](https://github.com/mrolli/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
-![Statistics Image](https://github.com/mrolli/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+![Statistics Image](https://github.com/mrolli/github-stats/blob/generated/languages.svg#gh-light-mode-only)  
 [Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
 
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
